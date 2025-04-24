@@ -5,3 +5,5 @@ En base a los posts durante más de 20 años por parte de los editores en [anand
 # Aviso importante
 
 El web scraping, junto a la creación de los archivos pkl, puede demorar minutos u horas dependiendo de la cantidad de páginas que se quieran scrapear.
+
+Link al [notebook](https://colab.research.google.com/drive/1QBleNz5P9Ol7uHg24LQsNfHfiAVUckpT#scrollTo=dWWqwy3XIXoW)
